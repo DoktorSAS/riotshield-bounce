@@ -16,7 +16,7 @@ So I created a **Drag and Drop** script, just insert this script in your **gamet
 1. Instagram: https://www.instagram.com/SorexProject/
 2. Twitter: https://twitter.com/SorexProject
 3. Website: https://sorexproject.webflow.io/
-4- Discord:  https://discord.io/Sorex or https://discord.com/invite/nCP2y4J
+4. Discord:  https://discord.io/Sorex or https://discord.com/invite/nCP2y4J
 
 ## Donation
 If you like my servers and scripts I invite you to donate something to support my work 
