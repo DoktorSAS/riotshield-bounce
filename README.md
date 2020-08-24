@@ -8,7 +8,7 @@ So I created a **Drag and Drop** script, just insert this script in your **gamet
 
 # Social
 ### DoktorSAS
-Instagram: https://www.instagram.com/doktor_sas/
+Instagram: https://www.instagram.com/doktor_sas/ \n
 Twitter: https://twitter.com/DoktorSAS
 Discord:  https://discord.io/DoktorSAS or https://discord.com/invite/SxwtsZU
 
