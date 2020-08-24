@@ -19,7 +19,7 @@ Discord:  https://discord.io/Sorex or https://discord.com/invite/nCP2y4J
 
 ## Donation
 If you like my servers and scripts I invite you to donate something to support my work 
-	Donate: https://www.paypal.com/paypalme/SorexProject
+Donate: https://www.paypal.com/paypalme/SorexProject
 	
 Copyright: The script was created by DoktorSAS and no one else can 
 			     say they created it. The script is free and accessible to 
