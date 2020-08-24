@@ -8,14 +8,15 @@ So I created a **Drag and Drop** script, just insert this script in your **gamet
 
 # Social
 ### DoktorSAS
-Instagram: https://www.instagram.com/doktor_sas/ \n
-Twitter: https://twitter.com/DoktorSAS
-Discord:  https://discord.io/DoktorSAS or https://discord.com/invite/SxwtsZU
+1. Instagram: https://www.instagram.com/doktor_sas/ 
+2. Twitter: https://twitter.com/DoktorSAS
+3. Discord:  https://discord.io/DoktorSAS or https://discord.com/invite/SxwtsZU
 
 ### Sorex
-Instagram: https://www.instagram.com/SorexProject/
-Website: https://sorexproject.webflow.io/
-Discord:  https://discord.io/Sorex or https://discord.com/invite/nCP2y4J
+1. Instagram: https://www.instagram.com/SorexProject/
+2. Twitter: https://twitter.com/SorexProject
+3. Website: https://sorexproject.webflow.io/
+4- Discord:  https://discord.io/Sorex or https://discord.com/invite/nCP2y4J
 
 ## Donation
 If you like my servers and scripts I invite you to donate something to support my work 
