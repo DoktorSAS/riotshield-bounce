@@ -20,7 +20,7 @@ So I created a **Drag and Drop** script, just insert this script in your **gamet
 
 ## Donation
 If you like my servers and scripts I invite you to donate something to support my work 
-Donate: https://www.paypal.com/paypalme/SorexProject
+Donate to https://www.paypal.com/paypalme/SorexProject
 	
 Copyright: The script was created by DoktorSAS and no one else can 
 			     say they created it. The script is free and accessible to 
